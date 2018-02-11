@@ -1,0 +1,14 @@
+
+
+the faulty sensors are;  1,10,13,  ;  2018-02-11 22:35:35.361000
+
+the faulty sensors are;  1,10,11,13,  ;  2018-02-11 22:35:59.934000
+
+the faulty sensors are;  1,10,11,13,32,  ;  2018-02-11 22:36:52.719000
+
+the faulty sensors are;  1,10,11,13,32,  ;  2018-02-11 22:39:57.962000
+
+the faulty sensors are;  10,11,13,32,  ;  2018-02-11 22:41:02.388000
+
+the faulty sensors are;  10,11,13,32,  ;  2018-02-11 22:44:21.041000
+
